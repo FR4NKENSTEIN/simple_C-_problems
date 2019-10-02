@@ -1,0 +1,11 @@
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Funds_1\bin\Debug\netcoreapp2.2\Funds_1.deps.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Funds_1\bin\Debug\netcoreapp2.2\Funds_1.runtimeconfig.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Funds_1\bin\Debug\netcoreapp2.2\Funds_1.runtimeconfig.dev.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Funds_1\bin\Debug\netcoreapp2.2\Funds_1.dll
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Funds_1\bin\Debug\netcoreapp2.2\Funds_1.pdb
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Funds_1\obj\Debug\netcoreapp2.2\Funds_1.csprojAssemblyReference.cache
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Funds_1\obj\Debug\netcoreapp2.2\Funds_1.csproj.CoreCompileInputs.cache
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Funds_1\obj\Debug\netcoreapp2.2\Funds_1.AssemblyInfoInputs.cache
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Funds_1\obj\Debug\netcoreapp2.2\Funds_1.AssemblyInfo.cs
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Funds_1\obj\Debug\netcoreapp2.2\Funds_1.dll
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Funds_1\obj\Debug\netcoreapp2.2\Funds_1.pdb
